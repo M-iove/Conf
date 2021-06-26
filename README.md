@@ -1,2 +1,6 @@
-# QuantumultX
-QuantumultX分流与复写
+特别感谢：
+@ConnersHua
+
+@KOP-XIAO
+
+@JasonLee-Go
