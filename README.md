@@ -1,6 +1,10 @@
-特别感谢：
-@ConnersHua
 
-@KOP-XIAO
+######  配置中内容收集整理自以下大佬 
 
-@JasonLee-Go
+#### 特别感谢：
+
+  * [@Orz-3](https://github.com/Orz-3)
+
+  * [@blackmatrix7](https://github.com/blackmatrix7)
+
+  * [@JasonLee-Go](https://github.com/JasonLee-Go)
